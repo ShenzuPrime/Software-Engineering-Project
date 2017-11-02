@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+logo-picture{
+	width:100vw;
+	height:30%;
+	margin-top: 0 auto !important;
+}
+.btn-success{
+	width: 100% !important;
+    cursor: pointer !important;
+    margin-top: -12px !important;
+    height: 7.5% !important;
+    margin-left: -21px !important;
+    position: absolute !important;
+}
+.card-body{
+	margin-bottom: -12px !important;
+}
